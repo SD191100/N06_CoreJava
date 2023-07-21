@@ -22,3 +22,6 @@ public class BitwiseOperator {
         System.out.println("i = a >>> 2 = " + i);
     }
 }
+
+// 8 4 2 1
+// 1 0 1 0
