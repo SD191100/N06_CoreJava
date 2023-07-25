@@ -19,6 +19,11 @@ public class CascadedIfElseStatement {
 			System.out.println("Age2 is greater:"+age2);		
 			
 		}
+		else
+		{
+			System.out.println("Age3 is greater:"+age3);
+		}
+		s.close();
 
 	}
 

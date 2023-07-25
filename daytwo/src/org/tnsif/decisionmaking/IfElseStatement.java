@@ -12,7 +12,11 @@ public class IfElseStatement {
 		{
 			System.out.println("Eligiblr to donate the blood");
 		}
-
+		else
+		{
+			System.out.println("Not Eligible to donate the blood");
+		}
+		s.close();
 	}
 
 }

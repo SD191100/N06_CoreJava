@@ -19,6 +19,7 @@ public class SwitchStatement {
 			default:
 				System.out.println("Invalid Input");
 		}
+		s.close();
 
 	}
 

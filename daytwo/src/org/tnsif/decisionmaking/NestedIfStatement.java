@@ -17,7 +17,8 @@ public class NestedIfStatement {
 				}
 			}
 		}
-
+		s.close();
+		
 	}
 
 }

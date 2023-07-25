@@ -13,7 +13,7 @@ public class WhileStatement {
 			System.out.println(num+" ");
 			num--;
 		}
-
+		s.close();
 	}
 
 }
