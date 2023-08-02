@@ -12,9 +12,6 @@ class SBI extends RBI {
         System.out.println("IFSC Code: " + ifscCode);
         System.out.println("IFSC Code: " + super.ifscCode);
     }
-
-    
-
 }
 
 
